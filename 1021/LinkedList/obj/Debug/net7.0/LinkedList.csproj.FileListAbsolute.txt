@@ -1,0 +1,12 @@
+/Users/beytullah/Projects/1021/LinkedList/bin/Debug/net7.0/LinkedList.deps.json
+/Users/beytullah/Projects/1021/LinkedList/bin/Debug/net7.0/LinkedList.dll
+/Users/beytullah/Projects/1021/LinkedList/bin/Debug/net7.0/LinkedList.pdb
+/Users/beytullah/Projects/1021/LinkedList/obj/Debug/net7.0/LinkedList.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/1021/LinkedList/obj/Debug/net7.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/1021/LinkedList/obj/Debug/net7.0/LinkedList.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/1021/LinkedList/obj/Debug/net7.0/LinkedList.AssemblyInfo.cs
+/Users/beytullah/Projects/1021/LinkedList/obj/Debug/net7.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/1021/LinkedList/obj/Debug/net7.0/LinkedList.dll
+/Users/beytullah/Projects/1021/LinkedList/obj/Debug/net7.0/refint/LinkedList.dll
+/Users/beytullah/Projects/1021/LinkedList/obj/Debug/net7.0/LinkedList.pdb
+/Users/beytullah/Projects/1021/LinkedList/obj/Debug/net7.0/ref/LinkedList.dll
